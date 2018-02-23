@@ -30,5 +30,6 @@ def printer(array)
   array.each_index do |i|
     puts badges[i]
     puts room_assignments[i]
-  end  
+    #
+  end
 end
